@@ -6,3 +6,14 @@ Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatko
 
 arXiv:1804.05805 https://arxiv.org/abs/1804.05805
 
+# Developer's Platform
+python 3.6.5
+keras 2.1.5
+tensorflow 1.7.0
+numpy 1.14.2
+matplotlib 2.2.2
+scipy 1.0.1
+
+# Run
+
+
