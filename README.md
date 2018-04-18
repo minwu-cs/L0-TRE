@@ -9,8 +9,6 @@ arXiv:1804.05805 https://arxiv.org/abs/1804.05805
 # Sample Results
 ![alt text](results/MNIST_Sample_Adversary.pdf)
 ![alt text](results/CIFAR10_Sample_Adversary.pdf)
-![Screenshot](MNIST_Sample_Adversary.pdf)
-![Screenshot](CIFAR10_Sample_Adversary.pdf)
 
 # Developer's Platform
 python 3.6.5
