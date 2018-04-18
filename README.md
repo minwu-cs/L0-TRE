@@ -7,6 +7,8 @@ Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatko
 arXiv:1804.05805 https://arxiv.org/abs/1804.05805
 
 # Sample Results
+![alt text](https://github.com/minwu-cs/L0-TRE/blob/master/results/MNIST_Sample_Adversary.pdf)
+![alt text](https://github.com/minwu-cs/L0-TRE/blob/master/results/CIFAR10_Sample_Adversary.pdf)
 ![Screenshot](MNIST_Sample_Adversary.pdf)
 ![Screenshot](CIFAR10_Sample_Adversary.pdf)
 
