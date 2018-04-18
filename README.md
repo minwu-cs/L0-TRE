@@ -7,7 +7,8 @@ Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatko
 arXiv:1804.05805 https://arxiv.org/abs/1804.05805
 
 # Sample Results
-![alt text](results/MNIST_Sample_Adversary.png)![alt text](results/CIFAR10_Sample_Adversary.png)
+![alt text](results/MNIST_Sample_Adversary.png)
+![alt text](results/CIFAR10_Sample_Adversary.png)
 
 # Developer's Platform
 python 3.6.5
