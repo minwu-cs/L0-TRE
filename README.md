@@ -22,3 +22,7 @@ scipy 1.0.1
 # Run
 python main.py
 
+In main.py, set dataset = 'MNIST' or 'CIFAR10'
+
+# Citation
+
