@@ -1,5 +1,5 @@
 """
-Image manipulation functions for MNIST
+Image manipulation functions
 
 Author: Min Wu
 Email: min.wu@cs.ox.ac.uk
