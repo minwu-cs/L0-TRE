@@ -25,6 +25,7 @@ python main.py
 In main.py, set dataset = 'MNIST' or 'CIFAR10'
 
 # Citation
+```
 @ARTICLE{2018arXiv180405805R,
    author = {{Ruan}, Wenjie and {Wu}, Min and {Sun}, Youcheng and {Huang}, Xiaowei and {Kroening}, Daniel and 
 	{Kwiatkowska}, Marta},
@@ -36,5 +37,5 @@ archivePrefix = "arXiv",
     month = apr,
    adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180405805R}
 }
-
+```
 
