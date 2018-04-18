@@ -1,5 +1,5 @@
 """
-Neural network and image set related functions for MNIST
+Neural network and image set related functions
 
 Author: Min Wu
 Email: min.wu@cs.ox.ac.uk
