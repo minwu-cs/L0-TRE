@@ -24,9 +24,11 @@ matplotlib 2.2.2
 scipy 1.0.1
 
 # Run
+```
 python main.py
+```
 
-In main.py, set dataset = 'MNIST' or 'CIFAR10'
+In main.py, set ``` dataset = 'MNIST' ``` or ``` dataset = 'CIFAR10' ```
 
 # Citation
 ```
@@ -45,5 +47,8 @@ archivePrefix = "arXiv",
 
 # Remark
 This tool is under active development and maintenance, please feel free to contact us about any problem encountered.
+
+Best wishes,
+
 min.wu@cs.ox.ac.uk
 
