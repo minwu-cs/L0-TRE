@@ -1,5 +1,4 @@
-# DeepTRE (Tensor-based Robustness Evaluation of Deep Neural Networks for the Hamming Distance
-)
+# DeepTRE (Tensor-based Robustness Evaluation of Deep Neural Networks for the Hamming Distance)
 
 Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm
 
