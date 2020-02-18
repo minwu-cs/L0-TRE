@@ -1,10 +1,12 @@
 # DeepTRE (Tensor-based Robustness Evaluation of Deep Neural Networks for the Hamming Distance)
 
-Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm
+__Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.__
 
-Wenjie Ruan, Min Wu, Youcheng Sun, Xiaowei Huang, Daniel Kroening, Marta Kwiatkowska.
+Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for the Hamming Distance
 
-arXiv:1804.05805 https://arxiv.org/abs/1804.05805
+The paper is accepted by the 28th International Joint Conference on Artificial Intelligence (IJCAI-19).
+https://doi.org/10.24963/ijcai.2019/824
+
 
 # Sample Results
 ![alt text](results/ImageNet_Sample_Saliency_Map.png)
