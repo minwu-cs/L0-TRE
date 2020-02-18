@@ -1,4 +1,5 @@
-# L0-TRE (L0 Norm Tensor-based Robustness Evaluation)
+# DeepTRE (Tensor-based Robustness Evaluation of Deep Neural Networks for the Hamming Distance
+)
 
 Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm
 
